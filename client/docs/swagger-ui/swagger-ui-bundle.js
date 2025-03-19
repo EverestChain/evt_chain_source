@@ -21955,7 +21955,7 @@
                     toolbox: {}
                 }, o), this.getSystem = this._getSystem.bind(this), this.store = (t = b, n = (0, c.fromJS)(this.state), r = this.getSystem, function(e, t, n) {
                     var r = [(0, g.systemThunkMiddleware)(n)],
-                        o = m.default.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || l.compose;
+                        o = m.default.__REDUX_DcoinaOOLS_EXTENSION_COMPOSE__ || l.compose;
                     return (0, l.createStore)(e, t, o(l.applyMiddleware.apply(void 0, r)))
                 }(t, n, r)), this.buildSystem(!1), this.register(this.plugins)
             }
@@ -27771,7 +27771,7 @@
             unstable_batchedUpdates: u.batchedUpdates,
             unstable_renderSubtreeIntoContainer: f
         };
-        "undefined" != typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ && "function" == typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.inject && __REACT_DEVTOOLS_GLOBAL_HOOK__.inject({
+        "undefined" != typeof __REACT_DcoinaOOLS_GLOBAL_HOOK__ && "function" == typeof __REACT_DcoinaOOLS_GLOBAL_HOOK__.inject && __REACT_DcoinaOOLS_GLOBAL_HOOK__.inject({
             ComponentTree: {
                 getClosestInstanceFromNode: r.getClosestInstanceFromNode,
                 getNodeFromInstance: function(e) {

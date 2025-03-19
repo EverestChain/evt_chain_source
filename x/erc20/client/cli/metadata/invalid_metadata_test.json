@@ -4,18 +4,18 @@
       "description": 1,
       "denom_units": [
         {
-          "denom": "aevt",
+          "denom": "acoina",
           "exponent": 0
         },
         {
-          "denom": "evt",
+          "denom": "coina",
           "exponent": 18
         }
       ],
-      "base": "aevt",
-      "display": "aevt",
-      "name": "aevt",
-      "symbol": "evt"
+      "base": "acoina",
+      "display": "acoina",
+      "name": "acoina",
+      "symbol": "coina"
     }
   ]
 }

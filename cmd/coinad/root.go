@@ -65,7 +65,7 @@ import (
 )
 
 const (
-	EnvPrefix = "evt"
+	EnvPrefix = "coina"
 )
 
 // NewRootCmd creates a new root command for catanead. It is called once in the
